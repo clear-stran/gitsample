@@ -1,3 +1,4 @@
 1. 2018 master. Initial.
 2. 2018 dev. Добавить картинку imv_1.
 3. NOTEB dev. Добавить кнопку btn_1.
+4. 2014 fork. Изменить текст в README.md.
